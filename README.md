@@ -1,6 +1,6 @@
 # gitTest
 
-aaaaaaa
+
 
 5555555
 
@@ -9,3 +9,6 @@ aaaaaaa
 bbbbbb
 
 444444
+
+777777
+000000
